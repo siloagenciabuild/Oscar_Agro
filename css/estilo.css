@@ -1,0 +1,24 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #DCEB34;
+}
+
+img{
+	width: 100%;
+}
+
+section#first{
+	padding-top: 40px;
+}
+
+section#second{
+	padding-top: 40px;
+}
+
+section#third{
+	padding-top: 40px;
+}
